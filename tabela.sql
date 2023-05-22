@@ -1,1 +1,1 @@
-SELECT * FROM proz.alunoss;
+
